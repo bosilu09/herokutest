@@ -12,4 +12,7 @@
   "dependencies": {
     "puppeteer": "^21.6.1"
   }
+  {"scripts": {
+    "install-puppeteer": "npx puppeteer install"
+  }
 }
